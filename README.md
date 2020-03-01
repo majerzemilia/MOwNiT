@@ -1,0 +1,2 @@
+# MOwNiT
+Numerical methods course
